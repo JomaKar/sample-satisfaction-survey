@@ -1,0 +1,74 @@
+[
+	{
+		"id": 1,
+		"content": {
+			"hasObjectives": true,
+			"topic": "Objetivos",
+			"title": "Objetivos del proyecto",
+			"question": "Al comienzo del proyecto en la reunión de inicio, definimos algunos objetivos relevantes para el proyecto. En tu opinión, ¿Se cumplieron estos objetivos?",
+			"answer": "",
+			"type": "yesOrNoQuestion_with_comment",
+			"comment_display": "any"
+		}
+	},
+	{
+		"id": 2,
+		"content": {
+			"topic": "Satisfacción",
+			"title": "Satisfacción con el proyecto",
+			"question": "¿Cómo valorarías tu satisfacción en este proyecto?",
+			"answer": "",
+			"type": "commentAndOpt"
+		}
+	},
+	{
+		"id": 3,
+		"content": {
+			"topic": "Aspectos",
+			"title": "Aspectos del Trabajo",
+			"question": "¿Cómo te sientes con los siguientes aspectos del trabajo?",
+			"answer": "",
+			"type": "workAspects_with_comment"
+		}
+	},
+	{
+		"id": 4,
+		"content": {
+			"topic": "Valor",
+			"title": "Valor Agregado",
+			"question": "¿Qué fue lo que más aportó valor de nuestro trabajo?",
+			"answer": "",
+			"type": "commentQuestion"
+		}
+	},
+	{
+		"id": 5,
+		"content": {
+			"topic": "Oportunidad",
+			"title": "Áreas de Oportunidad",
+			"question": "¿Hay algún aspecto del proyecto que consideras debió mejorar?",
+			"answer": "",
+			"type": "commentQuestion"
+		}
+	},
+	{
+		"id": 6,
+		"content": {
+			"topic": "Opinión",
+			"title": "Opinión Personal",
+			"question": "Si alguien te pregunta por nuestro trabajo o referencias de Multiplica, ¿Qué le dirías?",
+			"answer": "",
+			"type": "commentQuestion"
+		}
+	},
+	{
+		"id": 7,
+		"content": {
+			"topic": "Recomendación",
+			"title": "Recomendación",
+			"question": "Del 1 al 10 ¿Recomendarías trabajar con nosotros?",
+			"answer": "",
+			"type": "aloneRange"
+		}
+	}
+]

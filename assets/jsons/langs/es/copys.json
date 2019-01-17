@@ -1,0 +1,252 @@
+{
+	"welcome": {
+		"title": "Encuesta de satisfacción",
+		"body": {
+			"firstLine": ", nos encantaría que nos ayudes contestando esta encuesta",
+			"secondLine": "de satisfacción sobre el avance del proyecto "
+		},
+		"CTA": "Iniciar encuesta"
+	},
+	"survey": {
+		"CTAs": {
+			"backQuestion": "Anterior",
+			"conjuction": " de ",
+			"nextQuestion": "Siguiente pregunta",
+			"lastQuestion": "Enviar"
+		},
+		"commentAndOpt": {
+			"title": "Elige una respuesta",
+			"animicStates": [
+				{
+					"name": {
+						"man": "Fascinado",
+						"woman": "Fascinada"
+					},
+					"urlRoot": "assets/imgs/amazed-"
+				},
+				{
+					"name": {
+						"man": "Contento",
+						"woman": "Contenta"
+					},
+					"urlRoot": "assets/imgs/happy-"
+				},
+				{
+					"name": {
+						"man": "Neutro",
+						"woman": "Neutra"
+					},
+					"urlRoot": "assets/imgs/normal-"
+				},
+				{
+					"name": {
+						"man": "Inconforme",
+						"woman": "Inconforme"
+					},
+					"urlRoot": "assets/imgs/disappointed-"
+				},
+				{
+					"name": {
+						"man": "Molesto",
+						"woman": "Molesta"
+					},
+					"urlRoot": "assets/imgs/angry-"
+				}
+			],
+			"placeholders": {
+				"Fascinad": "Me impresionó el proceso que llevamos acabo...",
+				"Content": "Disfruté mucho el resultado que en conjunto aterrizamos...",
+				"Neutr": "Mejoraría los siguientes aspectos...",
+				"Inconform": "Nos faltó cumplir con el siguiente objetivo...",
+				"Molest": "Sentí varias amenazas externas hacia el proyecto como..."
+			}
+		},
+		"commentQuestion": {
+			"title": "Comentarios",
+			"placeholder": "Por favor danos tu opinión en este tema...",
+			"errTxt": "Cuéntanos qué cosas podríamos mejorar (mínimo 4 caracteres)"
+		},
+		"emojis": {
+			"title": "Elige una respuesta"
+		},
+		"aloneRangeSlider": {
+			"title": "Elige una respuesta",
+			"servicesItems": [
+				{
+					"text": "Jamás",
+					"urlRoot": "assets/imgs/angry-"
+				},
+				{
+					"text": "Sin dudarlo",
+					"urlRoot": "assets/imgs/amazed-"
+				}
+			]
+		},
+		"sliderQuestion": {
+			"title": "Elige una respuesta",
+			"workAspectsSatisfactionItems": [
+				"Inconforme",
+				"Cumplió con lo esperado",
+				"Satisfecho",
+				"Muy conforme",
+				"Superó las expectativa"
+			],
+			"servicesItems": [
+				{
+					"name": {
+						"man": "Fascinado",
+						"woman": "Fascinada"
+					},
+					"urlRoot": "assets/imgs/amazed-"
+				},
+				{
+					"name": {
+						"man": "Contento",
+						"woman": "Contenta"
+					},
+					"urlRoot": "assets/imgs/happy-"
+				},
+				{
+					"name": {
+						"man": "Neutro",
+						"woman": "Neutra"
+					},
+					"urlRoot": "assets/imgs/normal-"
+				},
+				{
+					"name": {
+						"man": "Inconforme",
+						"woman": "Inconforme"
+					},
+					"urlRoot": "assets/imgs/disappointed-"
+				},
+				{
+					"name": {
+						"man": "Molesto",
+						"woman": "Molesta"
+					},
+					"urlRoot": "assets/imgs/angry-"
+				}
+			]
+		},
+		"yesOrNoQuestion": {
+			"title": "Elige una respuesta",
+			"goodOrBad": {
+				"first": "Bueno",
+				"second": "Malo",
+				"third": "Regular"
+			},
+			"yesOrNoQuestion": {
+				"first": "Sí",
+				"second": "No",
+				"third": "Más o menos"
+			},
+			"yesOrNoQuestion_time": {
+				"first": "Sí",
+				"second": "No",
+				"third": "La mayoría del tiempo"
+			},
+			"yesOrNoQuestion_with_comment": {
+				"first": "Sí",
+				"second": "No",
+				"third": "Parcialmente",
+				"placeholder": "Deja un comentario..."
+			},
+			"yesOrNoQuestion_pure": {
+				"first": "Sí",
+				"second": "No"
+			}
+		}
+	},
+	"ending": {
+		"title": "¡Gracias ",
+		"body": {
+			"firstLine": " tus comentarios son valiosos para nuestro equipo de trabajo.",
+			"secondLine": "Agradecemos que te tomes el tiempo para dejar tus comentarios y sugerencias."
+		},
+		"CTAs": {
+			"no": "No gracias",
+			"yes": "Dar reconocimiento"
+		},
+		"awards": {
+			"title": "¿Te gustaría darle un reconocimiento al equipo?",
+			"trophies": [
+				{
+					"name": "Héroes sin capa",
+					"imgUrl": "assets/imgs/heroe.svg"
+				},
+				{
+					"name": "Dream Team",
+					"imgUrl": "assets/imgs/team.svg"
+				},
+				{
+					"name": "Maestros del diseño",
+					"imgUrl": "assets/imgs/design.svg"
+				},
+				{
+					"name": "Excelente experiencia",
+					"imgUrl": "assets/imgs/experience.svg"
+				},
+				{
+					"name": "Ases de la creatividad",
+					"imgUrl": "assets/imgs/creativity.svg"
+				}
+			],
+			"placeholders": [
+				"Gracias a la eficiencia del equipo se pudo...",
+				"El equipo actuó de manera increíble...",
+				"El producto fue visual y funcionalmente...",
+				"La experiencia de trabajo fue...",
+				"La manera de resolver las cosas me pareció..."
+			]
+		}
+	},
+	"modal": {
+		"countingTxt": {
+			"firstPart": "Tienes ",
+			"secondPart": " encuestas pendientes de contestar"
+		},
+		"pedingSurveyItm": {
+			"txt": "Encuesta ",
+			"cta": "Contestar"
+		},
+		"thanksAtEnd": {
+			"img": "assets/imgs/okCircle.svg",
+			"title": "¡La encuesta se ha contestado y enviado de manera exitosa!",
+			"text": "Agradecemos una vez más tu tiempo y comentarios para el equipo Multiplica.",
+			"buttonTxt": "Cerrar"
+		},
+		"nothingSelected": {
+			"img": "assets/imgs/xCircle.svg",
+			"title": "¡Olvidaste seleccionar algo!",
+			"text": "Necesitas seleccionar alguno de los trofeos antes de dar el reconocimiento",
+			"buttonTxt": "Cerrar"
+		},
+		"err": {
+			"img": "assets/imgs/xCircle.svg",
+			"title": "¡Ups, algo salió mal!",
+			"text": "Hemos tenido una falla al guardar tus respuestas",
+			"buttonTxt": "Reintentar"
+		},
+		"errLimit": {
+			"img": "assets/imgs/xCircle.svg",
+			"title": "¡Mil disculpas!",
+			"text": "Lo sentimos, pero estamos teniendo problemas con nuestro servidor, por favor intenta contestar la encuesta más tarde",
+			"buttonTxt": "Intenta más tarder"
+		}
+	},
+	"page404": {
+		"not-available": {
+			"faceImg": "assets/imgs/bad-face.svg",
+			"backImg": "assets/imgs/img404.svg",
+			"titleMessage": "¡Ups, algo salió mal!",
+			"fullText": "La encuesta que has solicitado, no existe o ya ha vencido, por favor contacta a la persona que te la compartió para que te de más detalles."
+		},
+		"done-already": {
+			"faceImg": "",
+			"backImg": "",
+			"titleMessage": "¡Gracias por tu interés!",
+			"fullText": "Al parecer la encuesta ya ha sido contestada en otro momento. Agradecemos tu interés y apoyo para mejorar nuestros servicios."
+		}
+	}
+}

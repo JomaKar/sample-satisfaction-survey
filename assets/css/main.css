@@ -1,0 +1,48 @@
+.cursor-pointer{
+	cursor: pointer;
+}
+
+.no-padding{
+	padding: 0 !important;
+}
+
+.no-margin{
+	margin: 0 !important;
+}
+
+.no-border-no-outline{
+	border: none !important;
+	outline: none !important;
+}
+
+.no-border-no-outline:focus{
+	border: none !important;
+	outline: none !important;	
+}
+
+.no-border{
+	border: none !important;
+}
+
+.no-border:focus{
+	border: none !important;
+}
+
+.no-outline{
+	outline: none !important;
+}
+
+.no-outline:focus{
+	outline: none !important;	
+}
+
+.background-image-model{
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+}
+
+.invalid-input{
+	border: 1px solid red !important;
+	box-sizing: border-box;
+}

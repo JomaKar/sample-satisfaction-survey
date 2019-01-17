@@ -1,0 +1,62 @@
+[
+	{
+		"id": 1,
+		"content": {
+			"topic": "Funcionamiento",
+			"title": "Funcionamiento del producto",
+			"question": "¿El producto ha funcionado correctamente?",
+			"answer": "",
+			"type": "yesOrNoQuestion_time"
+		}
+	},
+	{
+		"id": 2,
+		"content": {
+			"topic": "Objetivos",
+			"title": "Objetivos alcanzados",
+			"question": "¿Has alcanzado tus objetivos de negocio? ¿Cuáles has logrado?",
+			"answer": "",
+			"type": "commentQuestion"
+		}
+	},
+	{
+		"id": 3,
+		"content": {
+			"topic": "Competencia",
+			"title": "Competencia",
+			"question": "Con tu producto actual, ¿cómo te sientes conforme a tu competencia?",
+			"answer": "",
+			"type": "commentAndOpt"
+		}
+	},
+	{
+		"id": 4,
+		"content": {
+			"topic": "Mejoras",
+			"title": "Mejoras Posibles",
+			"question": "¿Tienes nuevas funcionalidades en mente o hay algo que se pueda mejorar?",
+			"answer": "",
+			"type": "commentQuestion"
+		}
+	},
+	{
+		"id": 5,
+		"content": {
+			"topic": "Futuro",
+			"title": "Futuros Proyectos",
+			"question": "¿Existen nuevos proyectos en puerta en los que podríamos ayudarte?",
+			"answer": "",
+			"type": "commentQuestion"
+		}
+	},
+	{
+		"id": 6,
+		"content": {
+			"topic": "Recomendación",
+			"title": "Recomendación",
+			"question": "Del 1 al 10 ¿Recomendarías trabajar con nosotros?",
+			"answer": "",
+			"type": "aloneRange"
+		}
+	}
+]

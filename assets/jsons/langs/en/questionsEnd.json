@@ -1,0 +1,74 @@
+[
+	{
+		"id": 1,
+		"content": {
+			"hasObjectives": true,
+			"topic": "Goals",
+			"title": "Goals of the Project",
+			"question": "At the kickstart meeting, we defined the most relevant goals of the project. In your opinion, did they were achieve?",
+			"answer": "",
+			"type": "yesOrNoQuestion_with_comment",
+			"comment_display": "any"
+		}
+	},
+	{
+		"id": 2,
+		"content": {
+			"topic": "Satisfaction",
+			"title": "Project's satisfaction",
+			"question": "How do you estimate your satisfaction with the project so far?",
+			"answer": "",
+			"type": "commentAndOpt"
+		}
+	},
+	{
+		"id": 3,
+		"content": {
+			"topic": "Aspects",
+			"title": "Work Aspects",
+			"question": "How do you feel about the next aspects of our job?",
+			"answer": "",
+			"type": "workAspects_with_comment"
+		}
+	},
+	{
+		"id": 4,
+		"content": {
+			"topic": "Value",
+			"title": "Added Value",
+			"question": "What has aggregated more value to the project from our job?",
+			"answer": "",
+			"type": "commentQuestion"
+		}
+	},
+	{
+		"id": 5,
+		"content": {
+			"topic": "Improvements",
+			"title": "Possible Improvements",
+			"question": "is it there any aspect of the project that you think it should have been improved?",
+			"answer": "",
+			"type": "commentQuestion"
+		}
+	},
+	{
+		"id": 6,
+		"content": {
+			"topic": "Opinion",
+			"title": "Personal Opinion",
+			"question": "If somebody ask you about our job or references from Multiplica, what would you say?",
+			"answer": "",
+			"type": "commentQuestion"
+		}
+	},
+	{
+		"id": 7,
+		"content": {
+			"topic": "Recommendation",
+			"title": "Recommendation",
+			"question": "From 1 to 10... How likely is that you recommend us?",
+			"answer": "",
+			"type": "aloneRange"
+		}
+	}
+]

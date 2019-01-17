@@ -1,0 +1,252 @@
+{
+	"welcome": {
+		"title": "Satisfaction Survey",
+		"body": {
+			"firstLine": ", we would like you to help us answering this survey",
+			"secondLine": "of satisfaction about the progress of the project "
+		},
+		"CTA": "Start survey"
+	},
+	"survey": {
+		"CTAs": {
+			"backQuestion": "Last",
+			"conjuction": " of ",
+			"nextQuestion": "Next question",
+			"lastQuestion": "Send"
+		},
+		"commentAndOpt": {
+			"title": "Choose an answer",
+			"animicStates": [
+				{
+					"name": {
+						"man": "Fascinated",
+						"woman": "Fascinated"
+					},
+					"urlRoot": "assets/imgs/amazed-"
+				},
+				{
+					"name": {
+						"man": "Happy",
+						"woman": "Happy"
+					},
+					"urlRoot": "assets/imgs/happy-"
+				},
+				{
+					"name": {
+						"man": "Neutral",
+						"woman": "Neutral"
+					},
+					"urlRoot": "assets/imgs/normal-"
+				},
+				{
+					"name": {
+						"man": "Unsatisfy",
+						"woman": "Unsatisfy"
+					},
+					"urlRoot": "assets/imgs/disappointed-"
+				},
+				{
+					"name": {
+						"man": "Angry",
+						"woman": "Angry"
+					},
+					"urlRoot": "assets/imgs/angry-"
+				}
+			],
+			"placeholders": {
+				"Fascinate": "I was impressed by the process we had...",
+				"Happ": "I enjoyed a lot the results that we achieved together...",
+				"Neutra": "I would improve the next aspects...",
+				"Unsatisf": "We couldn't reach the following goal...",
+				"Angr": "I felt a lot of obstacles really often in the project's progress, for example..."
+			}
+		},
+		"commentQuestion": {
+			"title": "Comments",
+			"placeholder": "Please give us your opinion on the next topic...",
+			"errTxt": "Tell us what could we improve (at least 4 characters)"
+		},
+		"emojis": {
+			"title": "Choose an answer"
+		},
+		"aloneRangeSlider": {
+			"title": "Choose an answer",
+			"servicesItems": [
+				{
+					"text": "Never",
+					"urlRoot": "assets/imgs/angry-"
+				},
+				{
+					"text": "No doubt",
+					"urlRoot": "assets/imgs/amazed-"
+				}
+			]
+		},
+		"sliderQuestion": {
+			"title": "Choose an answer",
+			"workAspectsSatisfactionItems": [
+				"Displeased",
+				"Reached what expected",
+				"Satisfy",
+				"Quite happy",
+				"Better than expected"
+			],
+			"servicesItems": [
+				{
+					"name": {
+						"man": "Fascinated",
+						"woman": "Fascinated"
+					},
+					"urlRoot": "assets/imgs/amazed-"
+				},
+				{
+					"name": {
+						"man": "Happy",
+						"woman": "Happy"
+					},
+					"urlRoot": "assets/imgs/happy-"
+				},
+				{
+					"name": {
+						"man": "Neutral",
+						"woman": "Neutral"
+					},
+					"urlRoot": "assets/imgs/normal-"
+				},
+				{
+					"name": {
+						"man": "Unsatisfy",
+						"woman": "Unsatisfy"
+					},
+					"urlRoot": "assets/imgs/disappointed-"
+				},
+				{
+					"name": {
+						"man": "Angry",
+						"woman": "Angry"
+					},
+					"urlRoot": "assets/imgs/angry-"
+				}
+			]
+		},
+		"yesOrNoQuestion": {
+			"title": "Choose an answer",
+			"goodOrBad": {
+				"first": "Good",
+				"second": "Bad",
+				"third": "Normal"
+			},
+			"yesOrNoQuestion": {
+				"first": "Yes",
+				"second": "No",
+				"third": "More or less"
+			},
+			"yesOrNoQuestion_time": {
+				"first": "Yes",
+				"second": "No",
+				"third": "Most of the times"
+			},
+			"yesOrNoQuestion_with_comment": {
+				"first": "Yes",
+				"second": "No",
+				"third": "Parcially",
+				"placeholder": "Leave a comment..."
+			},
+			"yesOrNoQuestion_pure": {
+				"first": "Yes",
+				"second": "No"
+			}
+		}
+	},
+	"ending": {
+		"title": "Thanks ",
+		"body": {
+			"firstLine": " your comments are really valuable for our team.",
+			"secondLine": "We appreciate that you take your time to leave us your comments and suggestions."
+		},
+		"CTAs": {
+			"no": "No thanks",
+			"yes": "Give recognition"
+		},
+		"awards": {
+			"title": "Would you like to give a recognition to the team?",
+			"trophies": [
+				{
+					"name": "Heroes without cape",
+					"imgUrl": "assets/imgs/heroe.svg"
+				},
+				{
+					"name": "Dream Team",
+					"imgUrl": "assets/imgs/team.svg"
+				},
+				{
+					"name": "Design Masters",
+					"imgUrl": "assets/imgs/design.svg"
+				},
+				{
+					"name": "Great experience",
+					"imgUrl": "assets/imgs/experience.svg"
+				},
+				{
+					"name": "Creativity wizards",
+					"imgUrl": "assets/imgs/creativity.svg"
+				}
+			],
+			"placeholders": [
+				"Thanks to team's efficiency we could...",
+				"The team worked perfectly with...",
+				"The product, functionally and visually, was...",
+				"The work experience was...",
+				"The way things were solved was..."
+			]
+		}
+	},
+	"modal": {
+		"countingTxt": {
+			"firstPart": "You have ",
+			"secondPart": " pending surveys"
+		},
+		"pedingSurveyItm": {
+			"txt": "Survey ",
+			"cta": "Answer"
+		},
+		"thanksAtEnd": {
+			"img": "assets/imgs/okCircle.svg",
+			"title": "The survey has been answered and sent successfully!",
+			"text": "Thank you again for taking a time to give us your feedback.",
+			"buttonTxt": "Close"
+		},
+		"nothingSelected": {
+			"img": "assets/imgs/xCircle.svg",
+			"title": "You forgot to choose something!",
+			"text": "You need to choose some award before giving the recognition",
+			"buttonTxt": "Close"
+		},
+		"err": {
+			"img": "assets/imgs/xCircle.svg",
+			"title": "Ups, something went wrong!",
+			"text": "We have failed saving your answers",
+			"buttonTxt": "Retry"
+		},
+		"errLimit": {
+			"img": "assets/imgs/xCircle.svg",
+			"title": "We apologize...",
+			"text": "We are sorry, but we are having problems with our server, please retry later",
+			"buttonTxt": "Retry later"
+		}
+	},
+	"page404": {
+		"not-available": {
+			"faceImg": "assets/imgs/bad-face.svg",
+			"backImg": "assets/imgs/img404.svg",
+			"titleMessage": "Ups, something went wrong!",
+			"fullText": "The survey you requested doesn't exist or has expired, please get in touch with the person who gaved to you to get more details."
+		},
+		"done-already": {
+			"faceImg": "",
+			"backImg": "",
+			"titleMessage": "Thanks for your interest!",
+			"fullText": "It looks like the survey has already been answered before. We appreciate your interest and support to improve our services."
+		}
+	}
+}

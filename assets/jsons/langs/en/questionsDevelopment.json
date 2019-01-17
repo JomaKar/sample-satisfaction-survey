@@ -1,0 +1,42 @@
+[
+	{
+		"id": 1,
+		"content": {
+			"topic": "Satisfaction",
+			"title": "Actual Satisfaction",
+			"question": "How do you estimate your satisfaction with the project so far?",
+			"answer": "",
+			"type": "commentAndOpt"
+		}
+	},
+	{
+		"id": 2,
+		"content": {
+			"topic": "Aspects",
+			"title": "Work Aspects",
+			"question": "How do you feel about the next aspects of our job?",
+			"answer": "",
+			"type": "workAspects_with_comment"
+		}
+	},
+	{
+		"id": 3,
+		"content": {
+			"topic": "Improvements",
+			"title": "Possible Improvements",
+			"question": "is it there any aspect of the project you think we should improve?",
+			"answer": "",
+			"type": "commentQuestion"
+		}
+	},
+	{
+		"id": 4,
+		"content": {
+			"topic": "Recommendation",
+			"title": "Recommendation",
+			"question": "From 1 to 10... How likely is that you recommend us?",
+			"answer": "",
+			"type": "aloneRange"
+		}
+	}
+]
